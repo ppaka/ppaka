@@ -1,4 +1,7 @@
-### Hi there 👋
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=ppaka&fontAlign=80&fontAlignY=40&color=gradient)
+
+<img alt="Unity" src ="https://img.shields.io/badge/Unity-FAFAFA.svg?&style=for-the-badge&logo=Unity&logoColor=black"/>
+
 
 <!--
 **ppaka/ppaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
